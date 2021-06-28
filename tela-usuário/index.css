@@ -1,0 +1,52 @@
+body {
+  background-color: #d3d3d3;
+}
+.header {
+  background-color: cadetblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.photo {
+  width: 80px;
+  border-radius: 40px;
+}
+
+.ola {
+  margin-left: 1rem;
+}
+
+.titulo {
+  margin-left: 45rem;
+  font-size: 2rem;
+}
+
+.pesquise {
+  margin-left: 35rem;
+  height: 3rem;
+
+  border-radius: 5px;
+}
+
+.card {
+  background-color: white;
+  display: flex;
+
+  width: 800px;
+
+  padding: 17px 24px;
+
+  border-radius: 5px;
+
+  margin: auto;
+  margin-top: 0.5rem;
+}
+
+.data {
+  margin-left: 25rem;
+}
+
+.professor {
+  margin-top: 3rem;
+}

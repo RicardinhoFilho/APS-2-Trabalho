@@ -1,0 +1,76 @@
+body {
+  background-color: #d3d3d3;
+}
+.header {
+  background-color: cadetblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.photo {
+  width: 80px;
+  border-radius: 40px;
+}
+
+.ola {
+  margin-left: 1rem;
+}
+
+.titulo {
+  margin-left: 45rem;
+  font-size: 2rem;
+}
+
+.pesquise {
+  margin-left: 35rem;
+  height: 3rem;
+
+  border-radius: 5px;
+}
+
+.main {
+  padding: 50px 50px;
+  display: flex;
+  margin: auto;
+
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.professor-imagem {
+  border-radius: 5px;
+  width: 10rem;
+}
+
+span {
+  font-size: 2rem;
+}
+li {
+  font-size: 1.5rem;
+}
+
+.footer {
+  margin-top: 10rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.aluno {
+  width: 8rem;
+  border-radius: 15px;
+}
+
+.total {
+  align-items: center;
+}
+
+.increver {
+  background-color: orange;
+
+  width: 14rem;
+  height: 3rem;
+
+  border:0px;
+  border-radius: 8px;
+}
