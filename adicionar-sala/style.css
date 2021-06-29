@@ -1,0 +1,30 @@
+body {
+  background-color: #d3d3d3;
+}
+
+.modal {
+  /* background-color: white; */
+  padding: 17px 80px;
+  align-items: center;
+}
+
+input {
+  padding: 20px 24px;
+  width: 80%;
+  align-items: center;
+}
+
+h2 {
+  margin-left: 50%;
+}
+
+button {
+  background-color: orange;
+
+  width: 14rem;
+  height: 3rem;
+
+  border: 0px;
+  border-radius: 8px;
+  margin-left: 50%;
+}

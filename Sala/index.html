@@ -61,7 +61,7 @@
       </div>
       <div class="footer">
         <div>
-          <button class="increver">Increver-se</button>
+          <button class="increver" onclick="testeAlerta()">Increver-se</button>
         </div>
         <div class="total">
           <div><img src="./Aluno.jpg" alt="Aluno" class="aluno" /></div>
@@ -71,3 +71,10 @@
     </div>
   </body>
 </html>
+
+<script>
+  const testeAlerta = () =>
+    window.alert(
+      "Não é possível se inscrever nesta sala uma vez que conflita com outra "
+    );
+</script>
