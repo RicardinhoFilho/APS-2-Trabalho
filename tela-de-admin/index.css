@@ -60,3 +60,8 @@ body {
   margin-top: 3rem;
 }
 
+.adicionar-sala{
+  background-color:cadetblue;
+  border-color: white;
+  border-radius: 10px;;
+}
